@@ -41,7 +41,7 @@ if __name__ == '__main__':
 
 
 
-	datapath = "data" #data directoty name/path	
+	datapath = "path of your excel and txt file folder" #data directoty name/path	
 	excelFile = "alldata.xlsx"
 	excelfilepath = os.path.join(datapath, excelFile)
 
