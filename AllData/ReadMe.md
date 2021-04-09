@@ -6,6 +6,6 @@ There is a excel file named `train.xlsx` that containes all the questins, answer
 
 ### Nota Bene
 
--Make sure that the language is in Bangla (including numbers) otherwise it will raise an error while converting to JSON file
--Run the `preprocess2.py` file to convert English numbers into Bangla
--After running `preprocess2.py`file, run the `preprocess.py` file to convert data into JSON file
+- Make sure that the language is in Bangla (including numbers) otherwise it will raise an error while converting to JSON file
+- Run the `preprocess2.py` file to convert English numbers into Bangla
+- After running `preprocess2.py`file, run the `preprocess.py` file to convert data into JSON file
