@@ -33,14 +33,14 @@ if __name__ == '__main__':
 		ret0,ret1 = substringFinder(args['substr'],args['text'])
 		print(ret0)
 
-	outputfile ="validation.json"
+	outputfile ="train.json"
 	if args['output'] is not None:
 		outputfile=args['output']
 
 
 
-	datapath = "data2" #data directoty name/path	
-	excelFile = "validation (2).xlsx"
+	datapath = "path of your excel and txt file folder" #data directoty name/path	
+	excelFile = "train.xlsx"
 	excelfilepath = os.path.join(datapath, excelFile)
 
 	if args['excel'] is not None:
