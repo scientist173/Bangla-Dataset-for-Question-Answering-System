@@ -19,8 +19,8 @@ If you use the dataset, kindly cite us
 @inproceedings{haque2020factoid,
   title={Factoid Question Answering over Bangla Comprehension},
   author={Haque, Md Asiful and Sultana, Shamima and Islam, Md Jayedul and Islam, Md Ashraful and Ovi, Jesan Ahammed},
-  booktitle={International Symposium on Multidisciplinary Studies and Innovative Technologies},
-  pages={623--630},
+  booktitle={2020 4th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)},
+  pages={1--8},
   year={2020},
   organization={IEEE}
 }
