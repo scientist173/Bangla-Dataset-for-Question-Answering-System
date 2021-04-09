@@ -39,7 +39,7 @@ if __name__ == '__main__':
 
 
 
-	datapath = "data2" #data directoty name/path	
+	datapath = "path of your excel and txt file folder" #data directoty name/path	
 	excelFile = "validation (2).xlsx"
 	excelfilepath = os.path.join(datapath, excelFile)
 
