@@ -7,7 +7,7 @@ we picked comprehensively read public papers, books, poems available on the Inte
 
 # How to Use
 
-There are 3 folders that contains tarain, validaton and total data. You will find instructions to use data inside the folder.
+There are 3 folders that contains taraing, validaton and total data. You will find instructions to use data inside the folder.
 
 
 # Citation
